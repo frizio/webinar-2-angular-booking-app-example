@@ -15,10 +15,11 @@ const IconRed = L.icon({
   iconAnchor: [17, 42],
 });
 
+
 @Component({
   selector: 'fb-reservation-map',
   template: `
-    Mappa
+    La Mappa
   `,
 })
 export class ReservationMapComponent {

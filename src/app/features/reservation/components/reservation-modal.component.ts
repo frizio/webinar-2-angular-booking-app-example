@@ -4,16 +4,12 @@ import { Component } from '@angular/core';
   selector: 'fb-reservation-modal',
   template: `
     <h2 mat-dialog-title>Book an appointment </h2>
-    
     <mat-dialog-content class="mat-typography" style="min-height: 450px">
-      <!--Date picker-->
       <mat-tab-group >
-        <mat-tab label="Date">
+        <mat-tab label="Date">                <!--Date picker-->
           <mat-calendar></mat-calendar>
         </mat-tab>
-        
-        <!--Time Picker-->
-        <mat-tab label="Time">
+        <mat-tab label="Time">                <!--Time Picker-->
           <mat-list>
             <!--List of available times-->
             <mat-list-item mat-ripple>
@@ -26,7 +22,6 @@ import { Component } from '@angular/core';
             </mat-list-item>
           </mat-list>
         </mat-tab>
-        
       </mat-tab-group>
     </mat-dialog-content>
   `,

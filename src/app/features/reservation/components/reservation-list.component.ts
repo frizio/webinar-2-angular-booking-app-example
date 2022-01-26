@@ -13,26 +13,22 @@ import { Component } from '@angular/core';
         </button>
       </mat-form-field>
     </div>
-
     <div class="list-content">
       <mat-list>
         <mat-list-item matRipple>
           <mat-icon mat-list-icon>map</mat-icon>
           <div mat-line>View all</div>
         </mat-list-item>
-
         <mat-divider></mat-divider>
         <mat-list-item matRipple>
           <mat-icon mat-list-icon>place</mat-icon>
           <div mat-line>Site Name</div>
         </mat-list-item>
-        
         <mat-divider></mat-divider>
         <mat-list-item matRipple>
           <mat-icon mat-list-icon>place</mat-icon>
           <div mat-line>Site Name</div>
         </mat-list-item>
-
       </mat-list>
     </div>
   `,
