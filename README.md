@@ -3,6 +3,10 @@
 
 Repository del codice sorgente realizzato per il _webinar #2: Angular Booking Demo_ creato in occasione della nascita della nostra accademia [IT Talent Factory](https://academy.talent-factory.it/).
 
+• [Link Live coding: Reservation System con Angular Material e Leaflet](https://www.youtube.com/watch?v=KTt3pMgb7Qw&ab_channel=FabioBiondi)
+
+• I miei sviluppi sul branch: frizio-coding.
+
 • [Video Teaser](https://www.youtube.com/watch?v=gu5zbCswoIU)
 
 • [Sito Web Talent Factory Academy](https://www.youtube.com/watch?v=gu5zbCswoIU)
